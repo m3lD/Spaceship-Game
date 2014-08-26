@@ -1,0 +1,26 @@
+body {
+ 
+    font-family: sans-serif;
+    background-color: rgba(204, 204, 204, 0.4);
+}
+
+.juego {
+    
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    
+}
+
+a {
+
+    color: black;
+    text-decoration: none;
+    float: right;
+}
+
+a:hover {
+ 
+    font-size: 18px;
+    color: #2c12dd;
+}
